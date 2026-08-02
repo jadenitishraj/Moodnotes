@@ -134,14 +134,17 @@ tool *by name*, our Python code runs it, and we hand the result back.
 
 ## Presentations
 
-Two teaching decks live in [`presentations/`](presentations). They are plain HTML files — open
-either one in a browser, no server and no install needed. Use the **Slides** menu at the top or
+Three teaching decks live in [`presentations/`](presentations). They are plain HTML files — open
+any of them in a browser, no server and no install needed. Use the **Slides** menu at the top or
 the arrow keys to move through them.
 
-| Deck | Covers |
-| --- | --- |
-| `genai-foundations.html` | Classical ML vs deep learning vs Gen AI, the timeline from 1936, diffusion vs autoregressive, model licences, HuggingFace, running a model locally with Ollama |
-| `agent-architecture.html` | What an agent really is, workflow vs autonomous, the core loop, tools, context and memory, delegation, safety, state, evaluation, cost, and what to build first |
+They are also published with GitHub Pages: **<https://jadenitishraj.github.io/Moodnotes/>**
+
+| Deck | For | Covers |
+| --- | --- | --- |
+| `web-foundations.html` | Start here — assumes no coding at all | HTML, CSS, JavaScript, JSON, what a server is, APIs and GET/POST/PUT/DELETE, FastAPI, databases and SQL, and one CRUD request traced end to end |
+| `genai-foundations.html` | Session one | Classical ML vs deep learning vs Gen AI, the timeline from 1936, diffusion vs autoregressive, model licences, HuggingFace, running a model locally with Ollama |
+| `agent-architecture.html` | Session two | What an agent really is, workflow vs autonomous, the core loop, tools, context and memory, delegation, safety, state, evaluation, cost, and what to build first |
 
 ---
 
