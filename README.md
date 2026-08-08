@@ -12,7 +12,7 @@ and change your notes by calling real API tools.
 
 You need two terminals: one for the backend, one for the frontend.
 
-**1. Backend**..........
+**1. Backend**................
 
 ```bash
 cd notes-app/backend && .venv/bin/uvicorn main:app --reload --port 8000
